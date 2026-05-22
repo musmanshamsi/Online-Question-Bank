@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">QuizMaster</string>
+
+    <!-- Home Screen -->
+    <string name="start_quiz">Start Quiz</string>
+    <string name="view_history">View History</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="home_subtitle">Test your knowledge across multiple categories!</string>
+
+    <!-- Categories -->
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="science_nature">Science &amp; Nature</string>
+    <string name="computers">Computers</string>
+
+    <!-- Difficulty -->
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+
+    <!-- Quiz Screen -->
+    <string name="question_progress">Question %1$d of %2$d</string>
+    <string name="next">Next</string>
+    <string name="retry">Retry</string>
+    <string name="loading_questions">Loading questions…</string>
+    <string name="error_loading">Failed to load questions. Please check your internet connection and try again.</string>
+
+    <!-- Result Screen -->
+    <string name="your_score">Your Score</string>
+    <string name="score_format">%1$d / %2$d</string>
+    <string name="percentage_format">%1$d%%</string>
+    <string name="play_again">Play Again</string>
+    <string name="go_home">Go Home</string>
+    <string name="excellent_message">Excellent! 🏆</string>
+    <string name="great_job_message">Great Job! 🎉</string>
+    <string name="good_effort_message">Good Effort! 👍</string>
+    <string name="keep_practicing_message">Keep Practicing! 💪</string>
+
+    <!-- History Screen -->
+    <string name="quiz_history">Quiz History</string>
+    <string name="no_history">No quizzes taken yet!</string>
+    <string name="no_history_subtitle">Start a quiz to see your results here.</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Quiz Reminders</string>
+    <string name="daily_reminder_title">Daily Quiz Reminder</string>
+    <string name="daily_reminder_text">Keep your streak alive! Take today\'s quiz.</string>
+</resources>
